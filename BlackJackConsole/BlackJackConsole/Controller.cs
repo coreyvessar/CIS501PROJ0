@@ -8,5 +8,6 @@ namespace BlackJackConsole
 {
     class Controller
     {
+        
     }
 }
